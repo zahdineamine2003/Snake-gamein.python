@@ -1,9 +1,9 @@
 # Modern Snake Game
 
 A modern implementation of the classic Snake game with additional features and beautiful visuals. The game includes multiple game modes, obstacles, portals, and a high score system.
+
 ![Snake Game Navigation](snake_navig.gif)
 ![Snake Game Gameplay](snake_game.gif)
-
 ## Features
 
 - 🎮 Multiple game modes with different obstacles and challenges
