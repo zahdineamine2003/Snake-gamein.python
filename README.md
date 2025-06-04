@@ -1,9 +1,10 @@
 # Modern Snake Game
 
 A modern implementation of the classic Snake game with additional features and beautiful visuals. The game includes multiple game modes, obstacles, portals, and a high score system.
-
-![Snake Game Navigation](snake_navig.gif)
-![Snake Game Gameplay](snake_game.gif)
+<p align="center">
+  <img src="snake_navig.gif" alt="Snake Game Navigation" width="500"><br>
+  <img src="snake_game.gif" alt="Snake Game Gameplay" width="500">
+</p>
 
 ## Features
 
@@ -82,8 +83,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Credits
+## 📬 Contact
 
-- Game developed by Amine Zahdine
-- Sound effects generated using Python
-- Built with Pygame 
+**Email:** [zahdineamine23@gmail.com](mailto:zahdineamine23@gmail.com)
+**GitHub:** [zahdineamine2003](https://github.com/zahdineamine2003)
